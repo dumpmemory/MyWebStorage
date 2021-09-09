@@ -4,7 +4,7 @@
 
 
 ----------------------------------
-2021年8月19号更新
+2021年9月9号更新
 ----------------------------------
 
 **AlphonsoEstrada仓库**
@@ -50,13 +50,31 @@
 **书源**:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/flyWorld11_source.xbs``
 
 
+----------------------
 **flyWorld11仓库-自制与修改源**
-- 晋江文学城： ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/jjwxc.xbs``
-- 笔下文学: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/bxwxorg.xbs``
-- 鲲弩小说: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/kunnu.xbs``
-- 书宝网-移动网站：``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/shubaowm.xbs``
-- 书宝网-桌面网站：``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/shubaowd.xbs``
-- All Novel英文小说: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/allnovel.xbs``
+
+**小说**
+- 晋江文学城： ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/jjwxc.xbs``
+- 笔下文学: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/bxwxorg.xbs``
+- 鲲弩小说: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/kunnu.xbs``
+- 书宝网-移动网站：``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/shubaowm.xbs``
+- 书宝网-桌面网站：``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/shubaowd.xbs``
+- 豆腐小说: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/doufu.xbs``
+
+**英文**
+- All Novel英文小说: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/allnovel.xbs``
+- sparknotes:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/sparknotes.xbs``
+
+**漫画**
+- 快看漫画（api:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/kuaikan.xbs``
+- bilibilicomics: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/bilibilicomics.xbs``
+- 哔哩哔哩漫画: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/bilibilimanga.xbs``
+
+**听书**
+- 猫耳FM:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/missevan.xbs``
+
+
+-------------------
 
 
 ## 帮助说明
