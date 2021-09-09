@@ -1,7 +1,7 @@
 # 这里是部分库的删改变动
 
 ----------------------------------
-2021年9月1号更新
+2021年9月9号更新
 ----------------------------------
 
 **gitstudyabc仓库**  已删库
@@ -25,3 +25,7 @@
 
 **优质书源**:``https://gitee.com/AlphonsoEstrada/xs/blob/master/sourceModelList.xbs``
 **普通书源**:``https://gitee.com/AlphonsoEstrada/xs/blob/master/sourceModelList2.xbs``
+
+**AliyaBatesBit仓库-听书源**
+
+**书源**:``https://gitee.com/AliyaBatesBit/xiangseting/raw/master/sourceModelList.xbs``

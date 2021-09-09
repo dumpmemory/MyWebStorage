@@ -5,7 +5,7 @@
 ```
 
 ----------------------------------
-2021年9月1号更新
+2021年9月9号更新
 ----------------------------------
 
 
@@ -33,7 +33,7 @@
 
 **AliyaBatesBit仓库-听书源**
 
-**书源**:``https://gitee.com/AliyaBatesBit/xiangseting/raw/master/sourceModelList.xbs``
+**书源**:``https://aliyabates.coding.net/p/xs/d/xs/git/raw/master/sourceModelList.xbs``
 
 
 **readbook仓库-女频源**
@@ -46,14 +46,31 @@
 **书源**:``https://flyandnewgame.coding.net/p/a/d/xs/git/raw/master/source.xbs``
 
 
+----------------------
 **flyWorld11仓库-自制与修改源**
+
+**小说**
 - 晋江文学城： ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/jjwxc.xbs``
 - 笔下文学: ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/bxwxorg.xbs``
 - 鲲弩小说: ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/kunnu.xbs``
 - 书宝网-移动网站：``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/shubaowm.xbs``
 - 书宝网-桌面网站：``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/shubaowd.xbs``
-- All Novel英文小说: ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/allnovel.xbs``
+- 豆腐小说: ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/doufu.xbs``
 
+**英文**
+- All Novel英文小说: ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/allnovel.xbs``
+- sparknotes:``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/sparknotes.xbs``
+
+**漫画**
+- 快看漫画（api:``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/kuaikan.xbs``
+- bilibilicomics: ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/bilibilicomics.xbs``
+- 哔哩哔哩漫画: ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/bilibilimanga.xbs``
+
+**听书**
+- 猫耳FM:``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/missevan.xbs``
+
+
+-------------------
 
 *******************************************************************************
 **gitstudyabc仓库**  已删库
