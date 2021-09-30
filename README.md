@@ -1,5 +1,7 @@
 # MyWebStorage
 
+仓库源地址 [-->github](https://github.com/zqzess/MyWebStorage)
+
 iFreeTimeBook   --> 爱阅书香书源
 
 - 自制源订阅地址``https://github.com/zqzess/MyWebStorage/blob/main/iFreeTimeBook/ReadMe.md``
