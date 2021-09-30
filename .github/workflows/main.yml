@@ -38,3 +38,4 @@ jobs:
         run: wget https://api.day.app/${BARK_KEY}/MyWebStorage更新/推送更新到给gitee出错?group=GitHub?sound=bell
         env:
           USER_KEY: ${{secrets.BARK_KEY}}
+          
