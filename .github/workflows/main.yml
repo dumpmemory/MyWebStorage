@@ -1,0 +1,40 @@
+# This is a basic workflow to help you get started with Actions
+
+name: update
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+on:
+  #schedule:
+    #- cron: "30 0 * * 1/2"
+    #- cron: "30 0 * * 1"
+  push:
+    branches: 
+      - main
+  workflow_dispatch:
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      
+      #推送更新至gitee
+      - name: Mirror the Github organization repos to Gitee.
+        uses: wearerequired/git-mirror-action@master
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.GITEE_PRIVATE_KEY }}
+        with:
+          source-repo: "git@github.com:zqzess/MyWebStorage.git"
+          destination-repo: "git@gitee.com:zqzess/my-book-web-storage.git"
+      
+      #BARK推送更新信息
+      - name: Send Failed Message
+        if: failure()
+        run: wget https://api.day.app/${BARK_KEY}/MyWebStorage更新/推送更新到给gitee出错?group=GitHub?sound=bell
+        env:
+          USER_KEY: ${{secrets.BARK_KEY}}
