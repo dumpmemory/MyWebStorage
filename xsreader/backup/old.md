@@ -1,7 +1,7 @@
 # 这里是部分库的删改变动
 
 ----------------------------------
-2021年9月9号更新
+2021年9月30号更新
 ----------------------------------
 
 **gitstudyabc仓库**  已删库
@@ -29,3 +29,5 @@
 **AliyaBatesBit仓库-听书源**
 
 **书源**:``https://gitee.com/AliyaBatesBit/xiangseting/raw/master/sourceModelList.xbs``
+
+**GiovannyRamsey仓库** 已删库改为书源汇总

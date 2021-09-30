@@ -5,7 +5,7 @@
 ```
 
 ----------------------------------
-2021年9月9号更新
+2021年9月30号更新
 ----------------------------------
 
 
@@ -15,10 +15,6 @@
 
 **普通书源**:``https://alphonsoestrada.coding.net/p/test/d/xiangse/git/raw/master/sourceModelList2.xbs``
 
-
-**GiovannyRamsey仓库**
-
-**书源**:``https://gitee.com/giovannyramsey/xiangse/raw/master/sourceModelList.xbs``
 
 
 **xiangse仓库-海棠源**
@@ -47,7 +43,7 @@
 
 
 ----------------------
-**flyWorld11仓库-自制与修改源**
+**haitang-blossoms仓库-自制与修改源**
 
 **小说**
 - 晋江文学城： ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/jjwxc.xbs``
@@ -56,6 +52,13 @@
 - 书宝网-移动网站：``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/shubaowm.xbs``
 - 书宝网-桌面网站：``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/shubaowd.xbs``
 - 豆腐小说: ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/doufu.xbs``
+- 笔趣阁 xswang : ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/biqugexswang.xbs ``
+- vipkanshu : ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/biqugevipkanshu.xbs``
+- 青果阅读: ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/qingoo.xbs``
+- 书耽: ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/shubl.xbs``
+- 长佩文学: ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/gongzicp.xbs``
+- mmKuu: ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/mmKuu.xbs``
+
 
 **英文**
 - All Novel英文小说: ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/allnovel.xbs``
@@ -69,6 +72,8 @@
 **听书**
 - 猫耳FM:``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/missevan.xbs``
 
+**视频**
+- 快看社区视频:``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/socialkuaikan.xbs``
 
 -------------------
 

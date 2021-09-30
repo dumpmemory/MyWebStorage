@@ -4,7 +4,7 @@
 
 
 ----------------------------------
-2021年9月9号更新
+2021年9月30号更新
 ----------------------------------
 
 **AlphonsoEstrada仓库**
@@ -51,7 +51,7 @@
 
 
 ----------------------
-**flyWorld11仓库-自制与修改源**
+**haitang-blossoms仓库-自制与修改源**
 
 **小说**
 - 晋江文学城： ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/jjwxc.xbs``
@@ -60,6 +60,12 @@
 - 书宝网-移动网站：``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/shubaowm.xbs``
 - 书宝网-桌面网站：``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/shubaowd.xbs``
 - 豆腐小说: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/doufu.xbs``
+- 笔趣阁 xswang : ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/biqugexswang.xbs ``
+- vipkanshu : ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/biqugevipkanshu.xbs``
+- 青果阅读: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/qingoo.xbs``
+- 书耽: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/shubl.xbs``
+- 长佩文学: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/gongzicp.xbs``
+- mmKuu: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/mmKuu.xbs``
 
 **英文**
 - All Novel英文小说: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/allnovel.xbs``
@@ -73,6 +79,8 @@
 **听书**
 - 猫耳FM:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/missevan.xbs``
 
+**视频**
+- 快看社区视频:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/socialkuaikan.xbs``
 
 -------------------
 
