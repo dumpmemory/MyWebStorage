@@ -36,7 +36,7 @@ jobs:
       #BARK推送更新信息
       - name: Send Failed Message
         if: failure()
-        run: wget https://api.day.app/${BARK_KEY}/MyWebStorage更新/推送更新到给gitee出错?group=GitHub?sound=bell
+        run: wget https://api.day.app/${BARK_KEY}/MyWebStorage更新/推送更新到给gitee出错?group=GitHub
         env:
           USER_KEY: ${{secrets.BARK_KEY}}
           
