@@ -9,7 +9,9 @@ iFreeTimeBook   --> 爱阅书香书源
 ***************************************************************
 xsreader        --> 香色闺阁书源
 
-- 作者源合集订阅地址``https://github.com/zqzess/MyWebStorage/blob/main/xsreader/backup/ReadMe.md``
+- 作者源合集订阅地址
+  - GitHub: ``https://github.com/zqzess/MyWebStorage/blob/main/xsreader/backup/ReadMe.md``
+  - Gitee:``https://gitee.com/zqzess/my-book-web-storage/raw/main/xsreader/backup/ReadMe.md``
 
 - 备份源合集订阅地址``https://github.com/zqzess/MyWebStorage/blob/main/xsreader/backup/backup.md``
 
