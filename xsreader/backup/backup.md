@@ -9,9 +9,9 @@
 
 **AlphonsoEstrada仓库**
 
-**优质书源书源**:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/sourceModelList.xbs``
+**优质书源书源**:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/AlphonsoEstrada/sourceModelList.xbs``
 
-**普通书源书源**:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/sourceModelList2.xbs``
+**普通书源书源**:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/AlphonsoEstrada/sourceModelList2.xbs``
 
 
 **gitstudyabc仓库**
@@ -88,15 +88,15 @@
 **BigFanTu仓库-自制与修改源**
 
 **小说**
-- 棉花糖小说： ``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/mht.xbs``
-- 九桃小说: ``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/jtxs.xbs``
-- 书趣阁: ``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/sqg.xbs``
-- 八戒中文网：``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/bjzww.xbs``
+- 棉花糖小说： ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/mht.xbs``
+- 九桃小说: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/jtxs.xbs``
+- 书趣阁: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/sqg.xbs``
+- 八戒中文网：``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/bjzww.xbs``
 
 **漫画**
-- 久久漫画:``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/99mh.xbs``
-- 搜动漫: ``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/sdm.xbs``
-- 知*客: ``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/zymk.xbs``
+- 久久漫画:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/99mh.xbs``
+- 搜动漫: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/sdm.xbs``
+- 知*客: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/zymk.xbs``
 -------------------
 
 ----------------------
@@ -105,12 +105,12 @@
 **小说**
 
 修改
-- 旧时光: ``https://gitee.com/Animadversion_Kvetch_ba9f/xssource/blob/master/source/%E6%97%A7%E6%97%B6%E5%85%89.xbs``
+- 旧时光: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/AvaZ/%E6%97%A7%E6%97%B6%E5%85%89.xbs``
 
 自制
 
-- 御书网:``https://gitee.com/Animadversion_Kvetch_ba9f/xssource/blob/master/source/yushu.xbs``
-- 同人小说网: ``https://gitee.com/Animadversion_Kvetch_ba9f/xssource/blob/master/source/%E5%90%8C%E4%BA%BA%E5%B0%8F%E8%AF%B4%E7%BD%91.xbs``
+- 御书网:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/AvaZ/yushu.xbs``
+- 同人小说网: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/AvaZ/%E5%90%8C%E4%BA%BA%E5%B0%8F%E8%AF%B4%E7%BD%91.xbs``
 -------------------
 
 
