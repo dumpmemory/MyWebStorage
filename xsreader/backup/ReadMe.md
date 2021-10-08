@@ -5,7 +5,7 @@
 ```
 
 ----------------------------------
-2021年9月30号更新
+2021年10月8号更新
 ----------------------------------
 
 
@@ -65,7 +65,7 @@
 - sparknotes:``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/sparknotes.xbs``
 
 **漫画**
-- 快看漫画（api:``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/kuaikan.xbs``
+- 快看漫画(api):``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/kuaikan.xbs``
 - bilibilicomics: ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/bilibilicomics.xbs``
 - 哔哩哔哩漫画: ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/bilibilimanga.xbs``
 
@@ -75,6 +75,35 @@
 **视频**
 - 快看社区视频:``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/socialkuaikan.xbs``
 
+-------------------
+
+----------------------
+**BigFanTu仓库-自制与修改源**
+
+**小说**
+- 棉花糖小说： ``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/mht.xbs``
+- 九桃小说: ``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/jtxs.xbs``
+- 书趣阁: ``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/sqg.xbs``
+- 八戒中文网：``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/bjzww.xbs``
+
+**漫画**
+- 久久漫画:``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/99mh.xbs``
+- 搜动漫: ``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/sdm.xbs``
+- 知*客: ``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/zymk.xbs``
+-------------------
+
+----------------------
+**AvaZ仓库-自制与修改源**
+
+**小说**
+
+修改
+- 旧时光: ``https://gitee.com/Animadversion_Kvetch_ba9f/xssource/blob/master/source/%E6%97%A7%E6%97%B6%E5%85%89.xbs``
+
+自制
+
+- 御书网:``https://gitee.com/Animadversion_Kvetch_ba9f/xssource/blob/master/source/yushu.xbs``
+- 同人小说网: ``https://gitee.com/Animadversion_Kvetch_ba9f/xssource/blob/master/source/%E5%90%8C%E4%BA%BA%E5%B0%8F%E8%AF%B4%E7%BD%91.xbs``
 -------------------
 
 *******************************************************************************
