@@ -6,4 +6,4 @@
 
 第一版主2: 
 
-``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/iFreeTimeBook/%E7%AC%AC%E4%B8%80%E7%89%88%E4%B8%BB%E2%91%A1.ibs``
+``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/myself/dybz2.xbs``

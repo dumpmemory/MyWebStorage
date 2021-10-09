@@ -5,7 +5,7 @@
 -----------------------
 iFreeTimeBook   --> 爱阅书香书源
 ---------
-- 自制源订阅地址``https://github.com/zqzess/MyWebStorage/blob/main/iFreeTimeBook/ReadMe.md``
+- 自制源订阅地址``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/iFreeTimeBook/ReadMe.md``
 
 ---------
 xsreader        --> 香色闺阁书源
