@@ -4,7 +4,7 @@
 
 
 ----------------------------------
-2021年10月8号更新
+2021年10月30号更新
 ----------------------------------
 
 **AlphonsoEstrada仓库**
@@ -66,6 +66,8 @@
 - 书耽: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/shubl.xbs``
 - 长佩文学: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/gongzicp.xbs``
 - mmKuu: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/mmKuu.xbs``
+- 101 小說典藏網 :``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/novel101.xbs``
+- 358小说: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/35851.xbs``
 
 **英文**
 - All Novel英文小说: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/allnovel.xbs``
@@ -75,13 +77,18 @@
 - 快看漫画(api):``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/kuaikan.xbs``
 - bilibilicomics: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/bilibilicomics.xbs``
 - 哔哩哔哩漫画: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/bilibilimanga.xbs``
+- 包子漫画 :``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/baozimh.xbs``
+- 漫蛙 :``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/manwa.xbs``
+- 香香腐宅 :``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/boylove.xbs``
+- 腐漫漫画 :``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/fumanmi.xbs``
 
 **听书**
 - 猫耳FM:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/missevan.xbs``
+- ishuyin :``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/ishuyin.xbs``
 
 **视频**
 - 快看社区视频:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/socialkuaikan.xbs``
-
+- 快看漫剧: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/kkcomicdrama.xbs``
 -------------------
 
 ----------------------
@@ -92,11 +99,34 @@
 - 九桃小说: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/jtxs.xbs``
 - 书趣阁: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/sqg.xbs``
 - 八戒中文网：``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/bjzww.xbs``
+- 推书君: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/tsj.xbs``
+- 笔趣阁api:`` https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/bqgapi.xbs``
+- 笔趣阁api2:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/bqgapi2.xbs``
+- 爪机书屋:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/zjsw.xbs``
+- 轻之文库:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/qzwk.xbs``  
 
 **漫画**
 - 久久漫画:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/99mh.xbs``
 - 搜动漫: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/sdm.xbs``
 - 知*客: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/zymk.xbs``
+- 冰氪:``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/icekr.xbs``
+- 野蛮漫画:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/ymmh.xbs``
+- 蒂亚漫画:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/diyamh.xbs``
+- 扑飞漫画:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/pfmh.xbs``
+- 包子漫画:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/bzmh.xbs``
+- 漫百分:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/mbf.xbs``
+- mangabz漫画:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/mangabz.xbs``
+- x漫画:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/xmh.xbs``
+- 亿漫:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/ymmh.xbs``
+- 漫画1234:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/mh1234.xbs``
+
+**视频**
+- 855影视:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/855.xbs``
+- 批哩批哩:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/pilipili.xbs``
+- 美日韩剧大全:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/hanjuapi.xbs``
+- 4k视频:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/4k.xbs``
+- CHOH视频:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/CHOK.xbs``
+- 看番:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/mvkf.xbs``
 -------------------
 
 ----------------------
@@ -112,7 +142,35 @@
 - 御书网:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/AvaZ/yushu.xbs``
 - 同人小说网: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/AvaZ/%E5%90%8C%E4%BA%BA%E5%B0%8F%E8%AF%B4%E7%BD%91.xbs``
 -------------------
+-------------------
+**not-happy-seat**
 
+**视频**
+- 自制樱花影院:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/not-happy-seat/%E6%A8%B1%E8%8A%B1%E5%BD%B1%E9%99%A2.xbs``
+- 片吧影院:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/not-happy-seat/%E7%89%87%E5%90%A7%E5%BD%B1%E9%99%A2.xbs``
+------------
+
+-----------
+**ksnohome**
+
+**书源**
+- 龙坛书网:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/ksnohome/longtanshuwang.xbs``
+- 斋书苑:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/ksnohome/zhaishuyuan.xbs``
+
+**漫画源**
+- zero搬运网:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/ksnohome/zerobyw.xbs``
+- 漫画联合国:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/ksnohome/comicun.xbs``
+
+**图源**
+- 阿七美图:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/ksnohome/muyudeyuan/aqimeituBymuyu.xbs``
+- csoplay啦:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/ksnohome/muyudeyuan/cosplaylaBymuyu.xbs``
+- 美模图库:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/ksnohome/muyudeyuan/meimotukuBymuyu.xbs``
+
+**视频源**
+- 三米影视:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/ksnohome/muyudeyuan/sanmiyinshiBymuyu.xbs``
+- TED:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/ksnohome/muyudeyuan/TEDBymuyu.xbs``
+- 女神视界:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/ksnohome/muyudeyuan/nvshenshijieBymuyu.xbs``
+-----------
 
 ## 帮助说明
 
