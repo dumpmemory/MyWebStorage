@@ -62,8 +62,10 @@
 - 358小说: ``https://cdn.jsdelivr.net/gh/haitang-blossoms/xiangsesource@main/xiangsesource-master/xiangsesource/35851.xbs``
 
 **英文**
-- All Novel英文小说: ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/allnovel.xbs``
-- sparknotes:``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/sparknotes.xbs``
+- All Novel英文小说: ``https://cdn.jsdelivr.net/gh/haitang-blossoms/xiangsesource@main/xiangsesource-master/xiangsesource/allnovel.xbs``
+- sparknotes:``https://cdn.jsdelivr.net/gh/haitang-blossoms/xiangsesource@main/xiangsesource-master/xiangsesource/sparknotes.xbs``
+- novelupdates: ``https://cdn.jsdelivr.net/gh/haitang-blossoms/xiangsesource@main/xiangsesource-master/xiangsesource/novelupdates.xbs``
+- booksvooks: ``https://cdn.jsdelivr.net/gh/haitang-blossoms/xiangsesource@main/xiangsesource-master/xiangsesource/booksvooks.xbs``
 
 **漫画**
 - 🔒快看漫画(api):``https://cdn.jsdelivr.net/gh/haitang-blossoms/xiangsesource@main/xiangsesource-master/xiangsesource/kuaikan.xbs``

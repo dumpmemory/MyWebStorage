@@ -52,19 +52,21 @@
 
 ----------------------
 **haitang-blossoms仓库-自制与修改源**
-
+- 注：🔒代表是正版源，有锁定内容
+- 有的源是可以登录的，若想登录按照大大大怪兽大佬这个（↓）教程提取cookie，再往全局httpHeaders里写`{"cookie":"`+提取的cookie+`"}`（2.52版本以上）
+  -  ![](https://z3.ax1x.com/2021/10/17/5YnSdf.gif)
 **小说**
-- 晋江文学城： ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/jjwxc.xbs``
+- 🔒晋江文学城： ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/jjwxc.xbs``
 - 笔下文学: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/bxwxorg.xbs``
 - 鲲弩小说: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/kunnu.xbs``
 - 书宝网-移动网站：``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/shubaowm.xbs``
 - 书宝网-桌面网站：``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/shubaowd.xbs``
-- 豆腐小说: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/doufu.xbs``
+- 🔒豆腐小说: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/doufu.xbs``
 - 笔趣阁 xswang : ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/biqugexswang.xbs ``
 - vipkanshu : ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/biqugevipkanshu.xbs``
-- 青果阅读: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/qingoo.xbs``
-- 书耽: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/shubl.xbs``
-- 长佩文学: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/gongzicp.xbs``
+- 🔒青果阅读: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/qingoo.xbs``
+- 🔒书耽: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/shubl.xbs``
+- 🔒长佩文学: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/gongzicp.xbs``
 - mmKuu: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/mmKuu.xbs``
 - 101 小說典藏網 :``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/novel101.xbs``
 - 358小说: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/35851.xbs``
@@ -72,25 +74,27 @@
 **英文**
 - All Novel英文小说: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/allnovel.xbs``
 - sparknotes:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/sparknotes.xbs``
+- novelupdates: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/novelupdates.xbs``
+- booksvooks: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/booksvooks.xbs``
 
 **漫画**
-- 快看漫画(api):``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/kuaikan.xbs``
-- bilibilicomics: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/bilibilicomics.xbs``
-- 哔哩哔哩漫画: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/bilibilimanga.xbs``
+- 🔒快看漫画(api):``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/kuaikan.xbs``
+- 🔒bilibilicomics: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/bilibilicomics.xbs``
+- 🔒哔哩哔哩漫画: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/bilibilimanga.xbs``
 - 包子漫画 :``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/baozimh.xbs``
 - 漫蛙 :``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/manwa.xbs``
 - 香香腐宅 :``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/boylove.xbs``
 - 腐漫漫画 :``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/fumanmi.xbs``
 
 **听书**
-- 猫耳FM:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/missevan.xbs``
+- 🔒猫耳FM:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/missevan.xbs``
 - ishuyin :``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/ishuyin.xbs``
-- Mixes.Cloud：``https://cdn.jsdelivr.net/gh/haitang-blossoms/xiangsesource@main/xiangsesource-master/xiangsesource/Mixes.Cloud.xbs``
-- New Temp Drama House:``https://github.com/haitang-blossoms/xiangsesource/blob/main/xiangsesource-master/xiangsesource/New%20Temp%20Drama%20House.xbs``
-- 水哥故事会:``https://github.com/haitang-blossoms/xiangsesource/blob/main/xiangsesource-master/xiangsesource/shuige.xbs``
+- Mixes.Cloud：``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/Mixes.Cloud.xbs``
+- New Temp Drama House:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/New%20Temp%20Drama%20House.xbs``
+- 水哥故事会:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/shuige.xbs``
 **视频**
-- 快看社区视频:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/socialkuaikan.xbs``
-- 快看漫剧: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/kkcomicdrama.xbs``
+- 🔒快看社区视频:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/socialkuaikan.xbs``
+- 🔒快看漫剧: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/kkcomicdrama.xbs``
 -------------------
 
 ----------------------
@@ -121,6 +125,8 @@
 - x漫画:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/xmh.xbs``
 - 亿漫:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/ymmh.xbs``
 - 漫画1234:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/mh1234.xbs``
+- 韩漫:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/hanman.xbs``
+- 漫画柜:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/MHg.xbs``
 
 **视频**
 - 855影视:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/855.xbs``
@@ -174,6 +180,15 @@
 - 女神视界:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/ksnohome/muyudeyuan/nvshenshijieBymuyu.xbs``
 -----------
 
+-----------
+**xdeep视频源**
+
+**视频**
+- 97看片(优):``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/xdeep/tv/97kp.xbs``
+- 芒果TV:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/xdeep/tv/mgTV.xbs``
+- 腾讯视频:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/xdeep/tv/txTV.xbs``
+
+--------
 ## 帮助说明
 
 **MaximillianMckenzie仓库**
