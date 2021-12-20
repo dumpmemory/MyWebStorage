@@ -1,17 +1,17 @@
 #### js教程：https://www.w3school.com.cn/js/index.asp
 #### xpath教程：https://www.w3school.com.cn/xpath/index.asp
-#### config, params, result为预定义参数名，请不要再使用这个三个名称
+#### config, params, result为预定义参数名，请不要再使用这个三个名称，善用logWithKey打印数据，你将发现新世界
 
 ### ////////////////////////////////////////////////////////////////////////////
 ### 香色闺阁使用xpath和js来解析书源，分为两步：第一步获取请求信息，第二步解析响应。
 
 #### 一. 获取请求信息，有两种方式，任选一个
 	1. 使用url：search.php?searchkey=%@keyWord&page=%@pageIndex&offset=%@offset&filter=%@filter
-	2. 使用js获取请求信息，需使用%@js声明，js参数有config, params, result，返回结果为请求信息，可以直接返回url，也可以返回对象
+	2. 使用js获取请求信息，需使用@js:声明，js参数有config, params, result，返回结果为请求信息，可以直接返回url，也可以返回对象
 	   参数config：对象类型，包含所有配置信息
-	   参数params：keyWord,pageIndex,offset,filter,filters,queryInfo,lastResponse(有下一页地址或在response中声明autoRequestMore),responseHeaders(需在moreKeys中声明useResponseHeaders)
+	   参数params：keyWord,pageIndex,offset,filter,filters,queryInfo,lastResponse(有下一页地址或在response中声明autoRequestMore),responseUrl,responseHeaders
 	   参数result：上一级获取的url
-	   返回结果：可直接返回url，也可返回对象{url,POST,httpParams,httpHeaders,forbidCookie,requestParamsEncode,responseFormatType,cacheTime,tryCount,response}，注意请求时可直接返回response，如果无需网络请求，这个参数还可以用来查看当前config,params,result中的内容
+	   返回结果：可直接返回url，也可返回对象{url,POST,httpParams,httpHeaders,forbidCookie,requestParamsEncode,responseFormatType,cacheTime,tryCount,response}，注意请求时可直接返回response，如果无需网络请求。sourceRegex用于嗅探音/视频资源，例如使用'.*\\.(mp3|m4a).*'，将返回第一个mp3或m4a文件url，注意反斜杠需转义符，也可以使用/.*\.(mp3|m4a).*/.toString()返回正则表达式
 	   返回结果示例：
 			{
 			'url':'https://www.baidu.com', 
@@ -22,23 +22,27 @@
 			'requestParamsEncode':'', 
 			'responseFormatType':'json', 
 			'cacheTime':3600, 
-			'tryCount':1
+			'tryCount':1,
+			"webView":'',
+			'webViewJs':'document.documentElement.outerHTML',
+			'webViewSkipUrls':['https://www.baidu.com'],
+			'sourceRegex':'.*\\.(mp3|m4a).*'
 			}
 
 
 #### 二. 解析响应，也有两种方式，任选一个
-	1. 使用规则解析响应，可使用xpath/jsonpath/js，有多个规则时使用'||'，js必须放在最后，示例：//a/@href||%@js return '返回结果';
+	1. 使用规则解析响应，可使用xpath/jsonpath/js，有多个规则时使用'||'，js必须放在最后，示例：//a/@href || @js: return '返回结果';
 	2. 使用js解析响应，编写完整的js函数：function functionName(config, params, result) {return '解析结果';}
-	   书本详情配置可直接返回bookInfo，也可以在response中返回bookInfo，如{'response':bookInfo}
-	   章节内容配置可直接返回content，也可以在response中返回content，如{'response':content}
+	   书本详情配置可直接返回bookInfo
+	   章节内容配置可直接返回content，也可以在字典中返回content，如{'content':content}
 	   其他包含列表的配置都必须使用list返回结果，如{'list':list}
 	   响应参数类型：
-		response(类型不限)
+		content(str)
 		list(arr)
 		more(bool)
 		maxPage(int)
 		removeHtmlKeys(string/arr)
-		autoRequestMore(bool，success/more为true时生效，异步自动再请求)
+		autoRequestMore(bool，success/more为true时生效，异步自动再请求，章节内容分页请求内部就是通过这个实现)
 		sendResponseOnRequest(bool)
 		success(bool)
 		error(string)
@@ -76,12 +80,12 @@
 	2. 最后一章更新时间：//div[@id='maininfo']/div[1]	注：只要包含完整时间即可，会自动格式化时间
 	3. 列表：//div[@id='list']/dl/dd
 	4. 标题：//a
-	5. 下一级界面地址，注意此处的detailUrl，对应测试界面“参数”：//a/@href|%@js return params.queryInfo.detailUrl + result;
+	5. 下一级界面地址，注意此处的detailUrl，对应测试界面“参数”：//a/@href || %@js return params.queryInfo.detailUrl + result;
 	6. 测试
 
 #### 第五步，配置章节内容
 	1. 响应解析方式(responseFormatType)选择“HTML(格式化为DOM)”
-	2. 正文：//div[@id='content']
+	2. 正文：//div[@id='content']/text()
 	3. 测试
 
 #### 第六步，配置书籍分类
@@ -107,7 +111,7 @@
 	1. 响应解析方式选择“普通字符串”
 	2. 请求信息中输入：
 ```
-%@js
+@js:
 return 'https://www.xbiquwx.la/modules/article/search.php?searchkey=' + encodeURI(params.keyWord);
 ```
 	3. 使用js手动解析响应中输入：
@@ -207,7 +211,7 @@ return {'list':list};
 
 ### ////////////////////////////////////////////////////////////////////
 ```
-moreKeys为预定义参数，json格式，优先级低于js，可使用的key有:httpParams(http请求参数,POST/GET均可用), httpHeaders(http请求头), requestFilters(下面详解), removeHtmlKeys(外部自动删除html的key，string/arr), forbidCookie(bool), cacheTime(int), skipCount(有list时跳过前面几个), pageSize(每页数量), maxPage(最大页数，默认1), POST(bool，默认false)
+moreKeys为预定义参数，json格式，优先级低于js，可使用的key有:requestFilters(下面详解), removeHtmlKeys(外部自动删除html的key，string/arr), skipCount(有list时跳过前面几个), pageSize(每页数量), maxPage(最大页数，默认1)
 ```
 
 ```
@@ -221,5 +225,47 @@ requestFilters为过滤器，主要用在书本分类中，用于筛选过滤内
 
 ### ////////////////////////////////////////////////////////////////////
 ```
-jsonpath仅实现了简单的数据获取，例如key1/key2[3]/key3对应js为result.key1.key2[3].key3，下标3仅用于数组，从1/-1开始，-1为逆序。复杂情况请直接使用js自定义解析。
+jsonpath有两种：
+第一种不使用前辍，但仅实现了简单的数据获取，优点是速度快，例如key1/key2[3]/key3对应js为result.key1.key2[3].key3，下标3仅用于数组，从1/-1开始，-1为逆序。复杂情况请直接使用js自定义解析。
+第一种使用$.开头，实现了标准的json语法，详情见：https://blog.csdn.net/koflance/article/details/63262484
+```
+
+
+### ////////////////////////////////////////////////////////////////////
+```
+原生能力支持使用params.nativeTool，有以下几个功能：
+
+log(obj); // 打印log，key使用时间截
+logWithKey(obj, strKey); // 打印log并自定义key
+
+stringByObject(obj); // 将任意对象转换为字符串
+
+deviceId(); // 默认的本地设备id，32位md5小写
+deviceIdWithTemplateWithSeparator(strTemplate, strSeparator); // 自定义格式的本地设备id，strTemplate为模版，aaa-aa-aaaa，这里使用-分为3段，每段第一个字符将标识该段类型：0为纯数字，a为纯字母小写，A为纯字母大写，b为字符(数字+字母)小写，B为字符(数字+字母)大写，默认的deviceId模版即为：bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+base64Decode(str); // base64解码，返回字符串
+base64Encode(str); // base64编码，返回字符串
+base64EncodeWithData(data); // 对二进制流(NSData)base64编码，返回字符串
+
+readFile(strPath); // 从path中读取文件，返回二进制流
+readTxtFile(strPath); // 从path中读取文件，返回字符串
+unzipFile(strPath); // 解压zip文件，返回目录path
+unzipFileWithPassword(strPath, strPassword); // 使用密码解压zip文件，返回目录path
+allFilesAtPath(strDirPath); // 获取path目录下所有的文件path，返回数组:arr(path)
+
+getCache(strKey); // 获取全局缓存对象
+setCache(strKey, obj); // 设置全局缓存对象
+
+sha1Encode(str); // 返回sha1
+md5Encode(str); // 返回md5
+
+XPathParserWithSource(str); // 创建XPath解析器，可用于下面XPath解析器专用接口
+
+
+XPath解析器接口有：
+raw(); // 返回原始html
+content(); // 返回内容
+tagName(); // 返回字符串
+attributes(); // 返回字典
+queryWithXPath(strXPath); // 返回查询结果，以数组保存
 ```

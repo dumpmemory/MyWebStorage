@@ -4,7 +4,7 @@
 
 
 ----------------------------------
-2021年10月30号更新
+2021年12月20号更新
 ----------------------------------
 
 **AlphonsoEstrada仓库**
@@ -85,7 +85,9 @@
 **听书**
 - 猫耳FM:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/missevan.xbs``
 - ishuyin :``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/ishuyin.xbs``
-
+- Mixes.Cloud：``https://cdn.jsdelivr.net/gh/haitang-blossoms/xiangsesource@main/xiangsesource-master/xiangsesource/Mixes.Cloud.xbs``
+- New Temp Drama House:``https://github.com/haitang-blossoms/xiangsesource/blob/main/xiangsesource-master/xiangsesource/New%20Temp%20Drama%20House.xbs``
+- 水哥故事会:``https://github.com/haitang-blossoms/xiangsesource/blob/main/xiangsesource-master/xiangsesource/shuige.xbs``
 **视频**
 - 快看社区视频:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/socialkuaikan.xbs``
 - 快看漫剧: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/kkcomicdrama.xbs``
