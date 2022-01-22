@@ -5,7 +5,7 @@
 ```
 
 ----------------------------------
-2021年12月20号更新
+2021年1月22号更新
 ----------------------------------
 
 
@@ -101,6 +101,7 @@
 - 笔趣阁api2:``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/bqgapi2.xbs``
 - 爪机书屋:``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/zjsw.xbs``
 - 轻之文库:``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/qzwk.xbs``  
+- 彩墨阁:`` https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/%E5%BD%A9%E5%A2%A8%E9%98%81.xbs``
 
 
 **漫画**
@@ -127,6 +128,7 @@
 - 4k视频:``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/4k.xbs``
 - CHOH视频:``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/CHOK.xbs``
 - 看番:``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/mvkf.xbs``
+
 -------------------
 
 ----------------------
@@ -154,35 +156,56 @@
 -----------
 **ksnohome**
 
-**书源**
-- 龙坛书网:``https://gitee.com/ksnohome/ksnoyuan/blob/master/ksnoyuan/longtanshuwang.xbs``
-- 斋书苑:``https://gitee.com/ksnohome/ksnoyuan/blob/master/ksnoyuan/zhaishuyuan.xbs``
+- 小说:``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/book.xbs``
+- 漫画:``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/comic.xbs``
 
-**漫画源**
-- zero搬运网:``https://gitee.com/ksnohome/ksnoyuan/blob/master/ksnoyuan/zerobyw.xbs``
-- 漫画联合国:``https://gitee.com/ksnohome/ksnoyuan/blob/master/ksnoyuan/comicun.xbs``
+**音频**
+- 九酷音乐``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/9ku.xbs``
+- 清风DJ``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/vvvjd.xbs``
+- 六月听书``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/6yue.xbs``
 
-**图源**
-- 阿七美图:``https://gitee.com/ksnohome/ksnoyuan/blob/master/muyudeyuan/aqimeituBymuyu.xbs``
-- csoplay啦:``https://gitee.com/ksnohome/ksnoyuan/blob/master/muyudeyuan/cosplaylaBymuyu.xbs``
-- 美模图库:``https://gitee.com/ksnohome/ksnoyuan/blob/master/muyudeyuan/meimotukuBymuyu.xbs``
+**视频**
+- 青年大学习``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/cyol.xbs``
+- 青年大学习（微电影、中国有故事……)``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/cyolv.xbs``
 
-**视频源**
-- 三米影视:``https://gitee.com/ksnohome/ksnoyuan/blob/master/muyudeyuan/sanmiyinshiBymuyu.xbs``
-- TED:``https://gitee.com/ksnohome/ksnoyuan/blob/master/muyudeyuan/TEDBymuyu.xbs``
-- 女神视界:``https://gitee.com/ksnohome/ksnoyuan/blob/master/muyudeyuan/nvshenshijieBymuyu.xbs``
+**实用工具**
+- 天气API(七日)``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/weather_7days.xbs``
+- 天气API(实况)``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/weather_now.xbs``
+
+**更新(漫画&小说)**
+- 古风小说``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/gufengxs.xbs``
+- 新八一中文``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/x81zw.xbs``
+- 天籁小说``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/tianlaixs.xbs``
+- 笔趣阁7``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/biqu7.xbs``
+- All Novel``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/allnovel.xbs``
+- 书屋小说``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/shu5xs.xbs``
+- Kissmanga（英文漫画）``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/kissmanga.xbs``
+- Lovehug（日文漫画）``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/lovehug.xbs``
+- Sakuramanga（日文漫画）``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/sakuramanga.xbs``
+- 好漫6（漫画）``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/haoman.xbs``
+- wallhaven（壁纸）``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/wallhaven.xbs``
+- 古风漫画``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/gufengmh.xbs``
 -----------
 
 -----------
 **xdeep视频源**
 
 **视频**
+- 555电影(优):``https://gitee.com/xdeep/booksoursce/raw/master/tv/555dy.xbs``
 - 97看片(优):``https://gitee.com/xdeep/booksoursce/raw/master/tv/97kp.xbs``
 - 芒果TV:``https://gitee.com/xdeep/booksoursce/raw/master/tv/mgTV.xbs``
 - 腾讯视频:``https://gitee.com/xdeep/booksoursce/raw/master/tv/txTV.xbs``
 
+**漫画**
+- 奇漫屋：``https://gitee.com/xdeep/booksoursce/raw/master/manhua/qimanwu.xbs``
 --------
 
+-----------
+**isaacveg**
+
+**书源**
+- 轻小说文库 wenku8:``https://gitee.com/isaacveg/xsreader-src/blob/master/xssource/wenku8.xbs``
+--------
 *******************************************************************************
 
 **gitstudyabc仓库**  已删库

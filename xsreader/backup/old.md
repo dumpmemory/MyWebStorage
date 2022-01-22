@@ -1,7 +1,7 @@
 # 这里是部分库的删改变动
 
 ----------------------------------
-2021年12月20号更新
+2021年1月22号更新
 ----------------------------------
 
 **gitstudyabc仓库**  已删库
@@ -43,3 +43,26 @@ haitang-blossoms 的书宝移动与桌面已合并
 
 **漫画**
 - ``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/ymmh.xbs``
+  
+***ksnohome*** --> ***ksksks***
+-----------
+**ksnohome**
+
+**书源**
+- 龙坛书网:``https://gitee.com/ksnohome/ksnoyuan/blob/master/ksnoyuan/longtanshuwang.xbs``
+- 斋书苑:``https://gitee.com/ksnohome/ksnoyuan/blob/master/ksnoyuan/zhaishuyuan.xbs``
+
+**漫画源**
+- zero搬运网:``https://gitee.com/ksnohome/ksnoyuan/blob/master/ksnoyuan/zerobyw.xbs``
+- 漫画联合国:``https://gitee.com/ksnohome/ksnoyuan/blob/master/ksnoyuan/comicun.xbs``
+
+**图源**
+- 阿七美图:``https://gitee.com/ksnohome/ksnoyuan/blob/master/muyudeyuan/aqimeituBymuyu.xbs``
+- csoplay啦:``https://gitee.com/ksnohome/ksnoyuan/blob/master/muyudeyuan/cosplaylaBymuyu.xbs``
+- 美模图库:``https://gitee.com/ksnohome/ksnoyuan/blob/master/muyudeyuan/meimotukuBymuyu.xbs``
+
+**视频源**
+- 三米影视:``https://gitee.com/ksnohome/ksnoyuan/blob/master/muyudeyuan/sanmiyinshiBymuyu.xbs``
+- TED:``https://gitee.com/ksnohome/ksnoyuan/blob/master/muyudeyuan/TEDBymuyu.xbs``
+- 女神视界:``https://gitee.com/ksnohome/ksnoyuan/blob/master/muyudeyuan/nvshenshijieBymuyu.xbs``
+-----------

@@ -4,7 +4,7 @@
 
 
 ----------------------------------
-2021年12月20号更新
+2021年1月22号更新
 ----------------------------------
 
 **AlphonsoEstrada仓库**
@@ -110,6 +110,7 @@
 - 笔趣阁api2:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/bqgapi2.xbs``
 - 爪机书屋:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/zjsw.xbs``
 - 轻之文库:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/qzwk.xbs``  
+- 彩墨阁:`` https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/%E5%BD%A9%E5%A2%A8%E9%98%81.xbs``
 
 **漫画**
 - 久久漫画:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/BigFanTu/99mh.xbs``
@@ -161,23 +162,35 @@
 -----------
 **ksnohome**
 
-**书源**
-- 龙坛书网:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/ksnohome/longtanshuwang.xbs``
-- 斋书苑:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/ksnohome/zhaishuyuan.xbs``
+- 小说:``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/book.xbs``
+- 漫画:``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/comic.xbs``
 
-**漫画源**
-- zero搬运网:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/ksnohome/zerobyw.xbs``
-- 漫画联合国:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/ksnohome/comicun.xbs``
+**音频**
+- 九酷音乐``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/9ku.xbs``
+- 清风DJ``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/vvvjd.xbs``
+- 六月听书``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/6yue.xbs``
 
-**图源**
-- 阿七美图:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/ksnohome/muyudeyuan/aqimeituBymuyu.xbs``
-- csoplay啦:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/ksnohome/muyudeyuan/cosplaylaBymuyu.xbs``
-- 美模图库:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/ksnohome/muyudeyuan/meimotukuBymuyu.xbs``
+**视频**
+- 青年大学习``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/cyol.xbs``
+- 青年大学习（微电影、中国有故事……)``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/cyolv.xbs``
 
-**视频源**
-- 三米影视:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/ksnohome/muyudeyuan/sanmiyinshiBymuyu.xbs``
-- TED:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/ksnohome/muyudeyuan/TEDBymuyu.xbs``
-- 女神视界:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/ksnohome/muyudeyuan/nvshenshijieBymuyu.xbs``
+**实用工具**
+- 天气API(七日)``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/weather_7days.xbs``
+- 天气API(实况)``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/weather_now.xbs``
+
+**更新(漫画&小说)**
+- 古风小说``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/gufengxs.xbs``
+- 新八一中文``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/x81zw.xbs``
+- 天籁小说``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/tianlaixs.xbs``
+- 笔趣阁7``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/biqu7.xbs``
+- All Novel``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/allnovel.xbs``
+- 书屋小说``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/shu5xs.xbs``
+- Kissmanga（英文漫画）``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/kissmanga.xbs``
+- Lovehug（日文漫画）``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/lovehug.xbs``
+- Sakuramanga（日文漫画）``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/sakuramanga.xbs``
+- 好漫6（漫画）``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/haoman.xbs``
+- wallhaven（壁纸）``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/wallhaven.xbs``
+- 古风漫画``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/gufengmh.xbs``
 -----------
 
 -----------
@@ -188,6 +201,8 @@
 - 芒果TV:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/xdeep/tv/mgTV.xbs``
 - 腾讯视频:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/xdeep/tv/txTV.xbs``
 
+**漫画**
+- 奇漫屋：``https://gitee.com/xdeep/booksoursce/raw/master/manhua/qimanwu.xbs``
 --------
 ## 帮助说明
 
