@@ -162,35 +162,35 @@
 -----------
 **ksnohome**
 
-- 小说:``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/book.xbs``
-- 漫画:``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/comic.xbs``
+- 小说:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/master/ksksks/Onerice/book.xbs``
+- 漫画:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/master/ksksks/Onerice/comic.xbs``
 
 **音频**
-- 九酷音乐``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/9ku.xbs``
-- 清风DJ``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/vvvjd.xbs``
-- 六月听书``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/6yue.xbs``
+- 九酷音乐``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/master/ksksks/Onerice/9ku.xbs``
+- 清风DJ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/master/ksksks/Onerice/vvvjd.xbs``
+- 六月听书``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/master/ksksks/Onerice/6yue.xbs``
 
 **视频**
-- 青年大学习``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/cyol.xbs``
-- 青年大学习（微电影、中国有故事……)``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/cyolv.xbs``
+- 青年大学习``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/master/ksksks/Onerice/cyol.xbs``
+- 青年大学习（微电影、中国有故事……)``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/master/ksksks/Onerice/cyolv.xbs``
 
 **实用工具**
-- 天气API(七日)``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/weather_7days.xbs``
-- 天气API(实况)``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/weather_now.xbs``
+- 天气API(七日)``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/master/ksksks/Onerice/weather_7days.xbs``
+- 天气API(实况)``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/master/ksksks/Onerice/weather_now.xbs``
 
 **更新(漫画&小说)**
-- 古风小说``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/gufengxs.xbs``
-- 新八一中文``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/x81zw.xbs``
-- 天籁小说``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/tianlaixs.xbs``
-- 笔趣阁7``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/biqu7.xbs``
-- All Novel``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/allnovel.xbs``
-- 书屋小说``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/shu5xs.xbs``
-- Kissmanga（英文漫画）``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/kissmanga.xbs``
-- Lovehug（日文漫画）``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/lovehug.xbs``
-- Sakuramanga（日文漫画）``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/sakuramanga.xbs``
-- 好漫6（漫画）``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/haoman.xbs``
-- wallhaven（壁纸）``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/wallhaven.xbs``
-- 古风漫画``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/gufengmh.xbs``
+- 古风小说``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/master/ksksks/Onerice/gufengxs.xbs``
+- 新八一中文``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/master/ksksks/Onerice/x81zw.xbs``
+- 天籁小说``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/master/ksksks/Onerice/tianlaixs.xbs``
+- 笔趣阁7``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/master/ksksks/Onerice/biqu7.xbs``
+- All Novel``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/master/ksksks/Onerice/allnovel.xbs``
+- 书屋小说``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/master/ksksks/Onerice/shu5xs.xbs``
+- Kissmanga（英文漫画）``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/master/ksksks/Onerice/kissmanga.xbs``
+- Lovehug（日文漫画）``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/master/ksksks/Onerice/lovehug.xbs``
+- Sakuramanga（日文漫画）``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/master/ksksks/Onerice/sakuramanga.xbs``
+- 好漫6（漫画）``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/master/ksksks/Onerice/haoman.xbs``
+- wallhaven（壁纸）``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/master/ksksks/Onerice/wallhaven.xbs``
+- 古风漫画``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/master/ksksks/Onerice/gufengmh.xbs``
 -----------
 
 -----------
@@ -202,7 +202,7 @@
 - 腾讯视频:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/xdeep/tv/txTV.xbs``
 
 **漫画**
-- 奇漫屋：``https://gitee.com/xdeep/booksoursce/raw/master/manhua/qimanwu.xbs``
+- 奇漫屋：``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/xdeep/tv/qimanwu.xbs``
 --------
 ## 帮助说明
 
