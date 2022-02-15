@@ -7,7 +7,14 @@
 ----------------------------------
 2021年1月22号更新
 ----------------------------------
+**本人自制与修改源**
 
+2021年2月15号更新
+
+**书源**
+
+修复起点中文©并变更备注为©zqzess
+- 起点中文©zqzess:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/myself/qidianChinese.xbs``
 
 **AlphonsoEstrada仓库**
 
