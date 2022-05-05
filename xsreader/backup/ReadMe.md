@@ -5,11 +5,11 @@
 ```
 
 ----------------------------------
-2021年1月22号更新
+2022年1月22号更新
 ----------------------------------
 **本人自制与修改源**
 
-2021年2月15号更新
+2022年2月15号更新
 
 **书源**
 
@@ -107,7 +107,7 @@
 - 笔趣阁api:`` https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/bqgapi.xbs``
 - 笔趣阁api2:``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/bqgapi2.xbs``
 - 爪机书屋:``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/zjsw.xbs``
-- 轻之文库:``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/qzwk.xbs``  
+- 轻之文库:``https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/qzwk.xbs``
 - 彩墨阁:`` https://gitee.com/BigFanTu/XsRead-source/blob/master/NovelSource/%E5%BD%A9%E5%A2%A8%E9%98%81.xbs``
 
 
@@ -198,13 +198,48 @@
 **xdeep视频源**
 
 **视频**
-- 555电影(优):``https://gitee.com/xdeep/booksoursce/raw/master/tv/555dy.xbs``
-- 97看片(优):``https://gitee.com/xdeep/booksoursce/raw/master/tv/97kp.xbs``
-- 芒果TV:``https://gitee.com/xdeep/booksoursce/raw/master/tv/mgTV.xbs``
-- 腾讯视频:``https://gitee.com/xdeep/booksoursce/raw/master/tv/txTV.xbs``
+- 97kp(优质源)包含国内外影视剧 解析快-资源一般: ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/97kp.xbs``
+- 555电影(优质源)包含国内外影视剧-Netflix蓝光,福利: ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/555dy.xbs``
+- 饭团影视(优质源) 包含国内外影视剧动漫综艺: ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/fantuan.xbs``
+- 星空影视(优质源) 包含国内外影视剧-资源全; ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/xkys.xbs``
+- 大师兄影视(优质源) 包含国内外影视剧-资源全; ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/dsxys.xbs``
+- 厂长资源; ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/czzy.xbs``
+- 樱花动漫; ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/yhdm.xbs``
+- 动漫巴士; ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/dmbs.xbs``
+- 动漫星球(优质源)看番剧; ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/dmxq.xbs``
+- 独播库(优质源)资源更新快,需要(萪敩仩蛧); ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/duboku.xbs``
+- AnFuns动漫(优质源)蓝光无修番剧(极品)非大陆IP会触发CF; ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/AnFuns.xbs``
+- zzzfun番剧(优质源)APP源; ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/zzzfun.xbs``
+- 6动漫(优质源); ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/6dm.xbs``
+- 芒果TV(优); ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/mgtv.xbs``
+- 天空影视 解析一般,容易失效; ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/tkys.xbs``
+- 快猫APP🔞 (app源) 抓的APP数据,破解金币视频; ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/kuaimao.xbs``
+- 18av🔞 中文字幕H动漫.更新播放快(萪敩仩蛧); ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/18av.xbs``
+- hanime动漫🔞 H动漫;懂得都懂(萪敩仩蛧); ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/hanime.xbs``
 
 **漫画**
-- 奇漫屋：``https://gitee.com/xdeep/booksoursce/raw/master/manhua/qimanwu.xbs``
+
+- 奇漫屋(优) 国漫多：``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/qimanwu.xbs``
+- 漫神(优) 国漫 日漫 资源多: ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/manshen.xbs``
+- 好漫6: ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/haoman6.xbs``
+- 好漫8: ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/haoman8.xbs``
+- 笨笨熊漫画: ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/bbxcomic.xbs``
+- 忆漫(优) 👾的源,只做了修复: ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/ym.xbs``
+- 木瓜漫画(优) 🔞韩漫 日漫 国产3D: ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/mugua.xbs``
+- 亲亲漫画 国漫资源一般,主要🔞日漫韩漫: ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/qinhm.xbs``
+
+**小说**
+- 爱阅小说app(优): ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/aiyueks.xbs``
+- 看书助手(聚合) 聚合搜索全网小说: ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/kszs.xbs``
+- 飞速中文: ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/feiszw.xbs``
+- 33言情: ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/33yq.xbs``
+- 红甘泉: ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/hgq.xbs``
+- 神藏小说网: ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/szxs.xbs``
+- 360小说网 首次使用需要登陆,Cookie保持一个月: ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/360xs.xbs``
+
+**有声源**
+- 老白故事 (抓的APP端的资源): ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/audio/laobaigs.xbs``
+- 我听评书网 (老白故事的资源): ``https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/audio/wtpsw.xbs``
 --------
 
 -----------
