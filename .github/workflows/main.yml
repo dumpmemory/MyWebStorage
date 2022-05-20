@@ -23,15 +23,15 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       
-      #推送更新至gitee
-      - name: Mirror the Github organization repos to Gitee.
-        uses: wearerequired/git-mirror-action@master
-        env:
-          SSH_PRIVATE_KEY: ${{ secrets.GITEE_PRIVATE_KEY }}
-          SSH_KNOWN_HOSTS: ${{ secrets.SSH_KNOWN_HOSTS }}
-        with:
-          source-repo: "git@github.com:zqzess/MyWebStorage.git"
-          destination-repo: "git@gitee.com:zqzess/my-book-web-storage.git"
+#      #推送更新至gitee
+#      - name: Mirror the Github organization repos to Gitee.
+#        uses: wearerequired/git-mirror-action@master
+#        env:
+#          SSH_PRIVATE_KEY: ${{ secrets.GITEE_PRIVATE_KEY }}
+#          SSH_KNOWN_HOSTS: ${{ secrets.SSH_KNOWN_HOSTS }}
+#        with:
+#          source-repo: "git@github.com:zqzess/MyWebStorage.git"
+#          destination-repo: "git@gitee.com:zqzess/my-book-web-storage.git"
       
       #BARK推送更新信息
       - name: Send Failed Message
